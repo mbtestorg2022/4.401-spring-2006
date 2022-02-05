@@ -18,8 +18,57 @@ Examples of Student Work
 
 All papers in this section are courtesy of the students named and used with permission.
 
-| STUDENTS | PROJECTS |
-| --- | --- |
-| Shauna Jin and Caitlin Mueller |  {{< br >}}{{< br >}} Baker House Dining Room: Thermal Balance Report ([PDF]({{< baseurl >}}/resources/baker_thermal)) {{< br >}}{{< br >}} Baker House Dining Room: Lighting Diagnostic ([PDF]({{< baseurl >}}/resources/baker_lighting)) {{< br >}}{{< br >}}  |
-| Daniel Bergey, Tim Dudley, and Melissa Shin |  {{< br >}}{{< br >}} A Thermal Balance Report: the Carpenter Center for Visual Arts ([PDF]({{< baseurl >}}/resources/carpente_thermal)) {{< br >}}{{< br >}} A Lighting and Acoustics Report: the Carpenter Center for Visual Arts ([PDF]({{< baseurl >}}/resources/carpent_lighting)) {{< br >}}{{< br >}}  |
-| Christopher Fematt and Yuliya Bentcheva | Kresge Auditorium Lighting Studies and Acoustics ([PDF]({{< baseurl >}}/resources/kresge))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+STUDENTS
+{{< thclose >}}
+{{< thopen >}}
+PROJECTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Shauna Jin and Caitlin Mueller
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Baker House Dining Room: Thermal Balance Report ([PDF]({{< baseurl >}}/resources/baker_thermal))
+
+Baker House Dining Room: Lighting Diagnostic ([PDF]({{< baseurl >}}/resources/baker_lighting))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Daniel Bergey, Tim Dudley, and Melissa Shin
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+A Thermal Balance Report: the Carpenter Center for Visual Arts ([PDF]({{< baseurl >}}/resources/carpente_thermal))
+
+A Lighting and Acoustics Report: the Carpenter Center for Visual Arts ([PDF]({{< baseurl >}}/resources/carpent_lighting))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Christopher Fematt and Yuliya Bentcheva
+{{< tdclose >}}
+{{< tdopen >}}
+Kresge Auditorium Lighting Studies and Acoustics ([PDF]({{< baseurl >}}/resources/kresge))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

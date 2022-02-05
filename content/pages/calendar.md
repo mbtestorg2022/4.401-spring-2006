@@ -4,35 +4,375 @@ title: Calendar
 uid: 2e520419-6463-c8af-cf55-7aeab1880d2e
 ---
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| {{< td-colspan 3 >}}**Thermal aspects of a building**{{< /td-colspan >}} |||
-| 2 | Outside environment and human needs | Homework 1 assigned |
-| 3 | Heat flow | Design project: building selection |
-| 4 | Air flow |  {{< br >}}{{< br >}} Homework 1 due {{< br >}}{{< br >}} Homework 2 assigned {{< br >}}{{< br >}}  |
-| 5 | Humid air | &nbsp; |
-| 6 | Thermal comfort and insulation | Homework 2 due |
-| 7 | Condensation and moisture | Homework 3 assigned |
-| 8 | Climate-responsive design | &nbsp; |
-| 9 | Passive controls, thermal balance | Homework 3 due |
-| 10 | Forms of energy and active heating/cooling | &nbsp; |
-| {{< td-colspan 3 >}}**Lighting aspects of a building**{{< /td-colspan >}} |||
-| 11 | Physics of light, photometry |  {{< br >}}{{< br >}} Design project: thermal balance report due {{< br >}}{{< br >}} Homework 4 assigned {{< br >}}{{< br >}}  |
-| 12 | Vision and colors, visual comfort | Homework 4 due |
-| &nbsp; | In-class quiz: thermal aspects, lighting | &nbsp; |
-| 13 | Designing with natural light | &nbsp; |
-| 14 | Electric lighting | Homework 5 assigned |
-| {{< td-colspan 3 >}}**Acoustic aspects of a building**{{< /td-colspan >}} |||
-| 15 | Sound and hearing | &nbsp; |
-| 16 | Noise insulation |  {{< br >}}{{< br >}} Homework 5 due {{< br >}}{{< br >}} Homework 6 assigned {{< br >}}{{< br >}}  |
-| 17 | Room acoustics | Homework 6 due |
-| {{< td-colspan 3 >}}**Construction methods**{{< /td-colspan >}} |||
-| 18 | Construction principles, foundations | &nbsp; |
-| 19 | Masonry | Design project: lighting and acoustics report due |
-| 20 | Concrete | Homework 7 assigned |
-| 21 | Timber | &nbsp; |
-| 22 | Steel | Homework 7 due |
-| &nbsp; | In-class quiz: acoustics, construction | &nbsp; |
-| 23 | Building elements: walls, openings, floors, roofs | &nbsp; |
-| 24 | Integration of all aspects of building technology (class discussion) | Design project: relocated building report due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Thermal aspects of a building**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Outside environment and human needs
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 1 assigned
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Heat flow
+{{< tdclose >}}
+{{< tdopen >}}
+Design project: building selection
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Air flow
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Homework 1 due
+
+Homework 2 assigned
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Humid air
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Thermal comfort and insulation
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Condensation and moisture
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 3 assigned
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Climate-responsive design
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Passive controls, thermal balance
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Forms of energy and active heating/cooling
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Lighting aspects of a building**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Physics of light, photometry
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Design project: thermal balance report due
+
+Homework 4 assigned
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Vision and colors, visual comfort
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+In-class quiz: thermal aspects, lighting
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Designing with natural light
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Electric lighting
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 5 assigned
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Acoustic aspects of a building**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Sound and hearing
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Noise insulation
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Homework 5 due
+
+Homework 6 assigned
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Room acoustics
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 6 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Construction methods**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Construction principles, foundations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Masonry
+{{< tdclose >}}
+{{< tdopen >}}
+Design project: lighting and acoustics report due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Concrete
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 7 assigned
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Timber
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Steel
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 7 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+In-class quiz: acoustics, construction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Building elements: walls, openings, floors, roofs
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Integration of all aspects of building technology (class discussion)
+{{< tdclose >}}
+{{< tdopen >}}
+Design project: relocated building report due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
